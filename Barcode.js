@@ -5,9 +5,8 @@
  * Copyright (c) 2016 react-native-component <moonsunfall@aliyun.com>
  */
 
-
+import PropTypes from 'prop-types';
 import React, {
-    PropTypes,
     Component,
 } from 'react'
 import {
